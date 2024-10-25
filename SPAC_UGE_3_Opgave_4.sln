@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SPAC_UGE_3_Opgave_4", "SPAC_UGE_3_Opgave_4\SPAC_UGE_3_Opgave_4.pyproj", "{B15214C5-9433-429C-8F79-37EFE6486743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B15214C5-9433-429C-8F79-37EFE6486743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15214C5-9433-429C-8F79-37EFE6486743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F854FEA2-312A-4AB6-A551-5B4C235E6EBB}
+	EndGlobalSection
+EndGlobal
